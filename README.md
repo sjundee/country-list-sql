@@ -1,2 +1,66 @@
 # country-list-sql
-Country list
+countries.sql contains countries with 2 character code, common name (name column) and local name.
+
+The follwing countries has the common name in local name column as no local name was found:
+
+    [0] => Anguilla
+    [1] => Antarctica
+    [2] => Aruba
+    [3] => Bahamas
+    [4] => Bermuda
+    [5] => Bouvet Island
+    [6] => Cayman Islands
+    [7] => Christmas Island
+    [8] => Cocos (Keeling) Islands
+    [9] => Congo
+    [10] => Cook Islands
+    [11] => East Timor
+    [12] => Falkland Islands (Malvinas)
+    [13] => Faroe Islands
+    [14] => French Guiana
+    [15] => French Polynesia
+    [16] => French Southern Territories
+    [17] => Gambia
+    [18] => Gibraltar
+    [19] => Guernsey
+    [20] => Greenland
+    [21] => Guadeloupe
+    [22] => Guam
+    [23] => Heard and Mc Donald Islands
+    [24] => Hong Kong
+    [25] => Isle of Man
+    [26] => Ivory Coast
+    [27] => Jersey
+    [28] => Korea, Democratic People's Republic of
+    [29] => Korea, Republic of
+    [30] => Kosovo
+    [31] => Lao People's Democratic Republic
+    [32] => Macau
+    [33] => Martinique
+    [34] => Mayotte
+    [35] => Micronesia, Federated States of
+    [36] => Montenegro
+    [37] => Montserrat
+    [38] => Myanmar
+    [39] => New Caledonia
+    [40] => Niue
+    [41] => Norfolk Island
+    [42] => Northern Mariana Islands
+    [43] => Palestine
+    [44] => Pitcairn
+    [45] => Puerto Rico
+    [46] => Reunion
+    [47] => Saint Vincent and the Grenadines
+    [48] => Serbia
+    [49] => St. Helena
+    [50] => St. Pierre and Miquelon
+    [51] => Svalbard and Jan Mayen Islands
+    [52] => Togo
+    [53] => Tokelau
+    [54] => Turks and Caicos Islands
+    [55] => Vatican City State
+    [56] => Virgin Islands (British)
+    [57] => Virgin Islands (U.S.)
+    [58] => Wallis and Futuna Islands
+    [59] => Western Sahara
+    [60] => Zaire
